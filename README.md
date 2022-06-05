@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### HELLO HELLO! 👋
+<h1>Eu Sou <span class="input"></span></h1>
+life is good
 <!--
 **Felipe1501/Felipe1501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,4 +25,13 @@ Here are some ideas to get you started:
 <a href = "mailto:felipebsantos1501@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/felipe1501" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+          <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+        <script>
+            var typed = new Typed(".input", {
+                strings: ["Felipe Barbosa.", "Programador.", "Full Stack." , "Web Designer."],
+                typeSpeed: 70,
+                backSpeed: 60,
+                loop: true
+            });
+        </script>
 
