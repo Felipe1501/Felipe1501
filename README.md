@@ -1,14 +1,6 @@
 ### HELLO HELLO! 👋
-<h1>Eu Sou <span class="input"></span></h1>
-          <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
-        <script>
-            var typed = new Typed(".input", {
-                strings: ["Felipe Barbosa.", "Programador.", "Full Stack." , "Web Designer."],
-                typeSpeed: 70,
-                backSpeed: 60,
-                loop: true
-            });
-        </script>
+<h1>Eu Sou Felipe Barbosa dos Santos</h1>
+    
 life is good
 <!--
 **Felipe1501/Felipe1501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
