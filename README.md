@@ -18,7 +18,7 @@
   <img align="center" alt="Felipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Felipe-PHP" height="30" witdth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="right" alt="Felipe-pic" height="150" style="border-radius:50px;" 
-     src="https://drive.google.com/file/d/1KoQfCqrqV1tjByj85fJuv_--yUiRwV68/view?usp=sharing">
+     src="https://avatars.githubusercontent.com/u/78936330?v=4">
 </div>
 
   ##
