@@ -18,7 +18,7 @@
   <img align="center" alt="Felipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Felipe-PHP" height="30" witdth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="right" alt="Felipe-pic" height="150" style="border-radius:50px;" 
-     src="https://scontent.fssz2-1.fna.fbcdn.net/v/t39.30808-6/284727329_1347186919102539_6617088472520241693_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeENUrH_X0Vpf-m7d6o0qXMnwuyCaUWNKHPC7IJpRY0oc4hOOlQ-hRp5kLNOC5pz1Pwk0rJAQJfKrUrtL28fg4yr&_nc_ohc=p86idNuMRMIAX8-OVzA&_nc_ht=scontent.fssz2-1.fna&oh=00_AT8mZZxsfF3ftZfopIeYTRmujJXscs70i0c19W4JCK2qdw&oe=6312835A">
+     src="https://scontent.fssz2-1.fna.fbcdn.net/v/t39.30808-6/284727329_1347186919102539_6617088472520241693_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeENUrH_X0Vpf-m7d6o0qXMnwuyCaUWNKHPC7IJpRY0oc4hOOlQ-hRp5kLNOC5pz1Pwk0rJAQJfKrUrtL28fg4yr&_nc_ohc=ZpYYDGFc9vAAX_bSuNT&_nc_ht=scontent.fssz2-1.fna&oh=00_AT-ufNRuINKzFoKrOS_kIz2HP_hmj98yUp3RrrnNiCEoVA&oe=63205B1A">
 </div>
 
   ##
