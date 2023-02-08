@@ -1,9 +1,9 @@
 ### HELLO HELLO! 👋 Eu sou Felipe Barbosa dos Santos!!!
  ##
 
-- 🎒 Etec Adolpho Berezin
-- 🌱 Cursando 3º ano do Ensino Médio com Habilitação em Desenvolvimento de Sistemas
-- 😄 17 years
+- 🎒 
+- 🌱 Formado no Ensino Médio com Habilitação em Desenvolvimento de Sistemas
+- 😄 18 years
 
 <div align="center">
 <a href="https://github.com/Felipe1501">
