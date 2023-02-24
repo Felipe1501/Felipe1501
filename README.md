@@ -20,7 +20,7 @@
  <img align="center" alt="Felipe-Csharp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
          <img align="center" alt="Felipe-PHP" height="30" witdth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="right" alt="Felipe-pic" height="150" style="border-radius:50px;" 
-     src="https://scontent.fssz2-1.fna.fbcdn.net/v/t39.30808-6/322957643_488688323350166_2206920257212697908_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=4Fu6Mz0uKCIAX8piQYC&_nc_ht=scontent.fssz2-1.fna&oh=00_AfCW3DojsuthA-TNF2MRjsyloEvk8pdbaiX1516pKEeQQw&oe=63E8666A"
+     src="https://scontent.fssz2-1.fna.fbcdn.net/v/t39.30808-6/322957643_488688323350166_2206920257212697908_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=1ExmwCnR3psAX_tz9v0&_nc_ht=scontent.fssz2-1.fna&oh=00_AfDReQGAWck-4ZZWewQuf55RVA869thd6HuWIisjPeDrsA&oe=63FE272A"
 </div>
 
   ##
