@@ -23,5 +23,15 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Felipe1501&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
   
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Felipe-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Felipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <img align="center" alt="Felipe-Csharp" height="30" width="40" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png">
+ <img align="center" alt="Felipe-Csharp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
+         <img align="center" alt="Felipe-PHP" height="30" witdth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img align="right" alt="Felipe-pic" height="150" style="border-radius:50px;" 
+     src="https://scontent.fssz2-1.fna.fbcdn.net/v/t39.30808-6/322957643_488688323350166_2206920257212697908_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=1ExmwCnR3psAX_tz9v0&_nc_ht=scontent.fssz2-1.fna&oh=00_AfDReQGAWck-4ZZWewQuf55RVA869thd6HuWIisjPeDrsA&oe=63FE272A"
+</div>
 
