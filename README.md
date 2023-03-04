@@ -35,3 +35,4 @@
      src="https://scontent.fssz2-1.fna.fbcdn.net/v/t39.30808-6/322957643_488688323350166_2206920257212697908_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=1ExmwCnR3psAX_tz9v0&_nc_ht=scontent.fssz2-1.fna&oh=00_AfDReQGAWck-4ZZWewQuf55RVA869thd6HuWIisjPeDrsA&oe=63FE272A"
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0862F4&height=120&section=footer"/>
