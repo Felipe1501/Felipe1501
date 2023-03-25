@@ -30,6 +30,7 @@
   <img align="center" alt="Felipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  <img align="center" alt="Felipe-Csharp" height="30" width="40" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png">
  <img align="center" alt="Felipe-Csharp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
+  <img align="center" alt="Felipe-C" height="30" width="40" src="https://img2.gratispng.com/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg">
          <img align="center" alt="Felipe-PHP" height="30" witdth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="right" alt="Felipe-pic" height="150" style="border-radius:50px;" 
      src="https://scontent.fssz12-1.fna.fbcdn.net/v/t39.30808-6/322957643_488688323350166_2206920257212697908_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGoGTSoB4LrvEFrXoxYw_3uyO42kQ3gLNbI7jaRDeAs1j4AyGbkGV8PmZOtSrEFkblF_8XALM1p5DyLJKhcpCut&_nc_ohc=Eg3ndKINL0oAX9TYcLF&_nc_ht=scontent.fssz12-1.fna&oh=00_AfAB4fQKLXMMBfecs5yQ04IIbrrNkdQUaIwFYI0kXh8Gng&oe=641FC56A"
