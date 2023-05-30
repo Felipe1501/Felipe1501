@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![hello world felipe](https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif)
+ <img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" width="100px" alt="hello world felipe" />
 
 </div>
 
